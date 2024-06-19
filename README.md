@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Master's Computer Application at SPPU
 - 💞️ I’m looking to collaborate on ...Internships for Developer or any profile related to my field
-- 📫 How to reach me ... sanjeevnaganur7728@gmail.com
+- 📫 How to reach me ... naganursanjeev7728@7728
 
 <!---
 Baba7728/Baba7728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
