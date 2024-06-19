@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baba7728  (Sanjeev Naganur)
+- 👋 Hi, I’m @SanjuBaba7728  (Sanjeev Naganur)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Master's Computer Application at SPPU
 - 💞️ I’m looking to collaborate on ...Internships for Developer or any profile related to my field
